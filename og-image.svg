@@ -2,11 +2,15 @@
   <title id="title">Record MEMORY</title>
   <desc id="desc">Independent Creative Project / Tokyo</desc>
   <rect width="1200" height="630" fill="#f1efe9"/>
+
+  <text x="76" y="94" fill="#6e7471" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="6">INDEPENDENT CREATIVE PROJECT / TOKYO</text>
+
   <circle cx="1040" cy="110" r="46" fill="none" stroke="#111615" stroke-width="3"/>
   <text x="1040" y="124" text-anchor="middle" fill="#111615" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="500">R</text>
-  <text x="76" y="92" fill="#6e7471" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="7">INDEPENDENT CREATIVE PROJECT / TOKYO</text>
+
   <text x="72" y="300" fill="#111615" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="500" letter-spacing="-9">RECORD</text>
   <text x="72" y="445" fill="#111615" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="500" letter-spacing="-9">MEMORY</text>
-  <line x1="76" y1="500" x2="265" y2="500" stroke="#a5c43a" stroke-width="8"/>
-  <text x="76" y="558" fill="#111615" font-family="Arial, Helvetica, sans-serif" font-size="31">もう一度、出会う。そして、新しい記憶をつくる。</text>
+
+  <line x1="76" y1="500" x2="282" y2="500" stroke="#a5c43a" stroke-width="8"/>
+  <text x="76" y="558" fill="#111615" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="2">MEET AGAIN. MAKE NEW MEMORIES.</text>
 </svg>
